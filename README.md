@@ -7,7 +7,7 @@ This repository holds the experiment log, a to do list, links to relevant reposi
 ## To Do List
 
 Work on BiasCon [[3]](#3) paper. 
-- [ ] Fork the BiasCon repository.
+- [X] Fork the BiasCon repository.
 - Assuming you have access to bias labels for colored MNIST data:
 - [ ] Implement true negative sampling [[2]](#2) and hard positive sampling [[5]](#5).
 - [ ] Implement a way of saving the loss and accuracy trajectories. 
