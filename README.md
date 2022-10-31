@@ -4,11 +4,21 @@ This repository holds the experiment log, a to do list, links to relevant reposi
 
 ## To Do Lists
 
-- [] 
-- []
-- []
-- []
-- []
+Work on BiasCon [[3]](#3) paper. 
+- [] Fork the BiasCon repository.
+- Assuming you have access to bias labels for colored MNIST data:
+- [] Implement true negative sampling [[2]](#2) and hard positive sampling [[5]](#5).
+- [] Implement a way of saving the loss and accuracy trajectories. 
+- [] Run the experiments for the original BiasCon, True Negative Sampling and Hard Sampling for different correlations.
+- [] Do t-sne representations for each 3.
+- [] Try these steps on other biased datasets such as Corrupted CIFAR10.  
+
+Work on Supervised Contrastive Learning [[4]](#4) paper.
+- [] Fork the SupCon repository.
+- [] Implement true negative sampling [[2]](#2) and hard positive sampling [[5]](#5).
+- [] Run experiments for these 3 variants on regular, unbiased datasets such as MNIST, CIFAR10, CIFAR100. 
+
+- [] Formulate Hard Positives and write the to do list for that. 
 
 ## References
 
