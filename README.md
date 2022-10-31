@@ -17,7 +17,6 @@ Work on Supervised Contrastive Learning [[4]](#4) paper.
 - [ ] Fork the SupCon repository.
 - [ ] Implement true negative sampling [[2]](#2) and hard positive sampling [[5]](#5).
 - [ ] Run experiments for these 3 variants on regular, unbiased datasets such as MNIST, CIFAR10, CIFAR100. 
-
 - [ ] Formulate Hard Positives and write the to do list for that. 
 
 ## References
