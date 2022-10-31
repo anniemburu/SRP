@@ -3,6 +3,7 @@
 This repository holds the experiment log, a to do list, links to relevant repositories, relevant input data, results and whatnot of the SRP. May also include other related personal research ideas of mine. 
 
 ## Relevant Repositories
+My fork of "Unbiased classification through bias-contrastive and bias-balanced learning" [[3]](#3) can be found at the [link.](https://github.com/ahmetumutdurmus/bias-contrastive-learning)
 
 ## To Do List
 
