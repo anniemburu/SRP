@@ -2,7 +2,9 @@
 
 This repository holds the experiment log, a to do list, links to relevant repositories, relevant input data, results and whatnot of the SRP. May also include other related personal research ideas of mine. 
 
-## To Do Lists
+## Relevant Repositories
+
+## To Do List
 
 Work on BiasCon [[3]](#3) paper. 
 - [ ] Fork the BiasCon repository.
