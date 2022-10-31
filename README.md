@@ -40,6 +40,5 @@ and bias-balanced learning. In Advances in Neural Information Processing Systems
 Prannay Khosla, Piotr Teterwak, Chen Wang, Aaron Sarna, Yonglong Tian, Phillip Isola, Aaron Maschinot, Ce Liu and Dilip Krishnan. Supervised Contrastive Learning. In Advances in Neural Information Processing Systems, 2020. 
 
 <a id="5">[5]</a> 
-Joshua David Robinson, Ching-Yao Chuang, Suvrit Sra, and Stefanie Jegelka. Contrastive learning with hard negative samples. In International Conference on Learn-
-ing Representations, 2021.
+Joshua David Robinson, Ching-Yao Chuang, Suvrit Sra, and Stefanie Jegelka. Contrastive learning with hard negative samples. In International Conference on Learning Representations, 2021.
 
